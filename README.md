@@ -21,7 +21,7 @@ The staircase slider (`case2-*`) is a real before and after of one job, from the
 
 ## Hero video
 
-`assets/video/hero.webm` / `hero.mp4` is a slow pan-and-zoom slideshow made from six of their own finished-job photos, so no stock footage is used. It is paused for `prefers-reduced-motion`.
+`assets/video/hero.webm` / `hero.mp4` is the same free stock bricklaying footage used on the other demos (Mixkit clips 20874 and 1436, Mixkit free licence), not their own. `hero-poster.jpg` is a frame from it. It is paused for `prefers-reduced-motion`.
 
 ## Deploy
 

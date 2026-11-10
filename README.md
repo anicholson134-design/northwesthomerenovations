@@ -17,7 +17,7 @@ Open `index.html` in a browser, or serve the folder with any static server (`pyt
 
 All photos are their own job photos from their website (the IMG_* uploads), not the stock images their site also uses. Image slots load from `assets/img/`; a missing file shows a labelled placeholder.
 
-The before and after pairs are illustrative: their website has no true before/after sets, so each pair is a build-stage photo next to a finished room from a similar job. Their Facebook page has real before/after sets; swap those in (`case1-before.jpg` ... `case3-after.jpg`) when available.
+The staircase slider (`case2-*`) is a real before and after of one job, from their Facebook page (sent over by Alec), as are the bathroom refit and utility room photos in the gallery (`gal-5`, `gal-6`). The other two sliders are illustrative: a build-stage photo next to a finished room from a similar job. Swap in real pairs (`case1-*`, `case3-*`) when available. Quotes beside each case are genuine reviews but are not necessarily from that job.
 
 ## Hero video
 
